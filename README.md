@@ -2,11 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar_Perfil-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivaan-escudero/)
 
 <p align="center">
-  <img src="" alt="Detección de un iris" width="600"/>
+  <img src="resultado_prueba.jpg" alt="Detección de un iris" width="600"/>
 </p>
-
-> **Reconocimiento Biométrico de Iris (Identificación 1:N)**
-> Ejemplo de segmentación de un iris aislando la pupila, el tejido iridiano y delimitando las oclusiones generadas por los párpados y las pestañas para su posterior procesamiento.
 
 ---
 
