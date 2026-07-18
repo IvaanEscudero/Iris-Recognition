@@ -2,10 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar_Perfil-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ivaan-escudero/)
 
 <p align="center">
-  <img src="resultado_prueba.jpg" alt="Detección de un iris" width="600"/>
+  <img src="resultado_prueba.jpg" alt="Detección de un iris" width="400"/>
 </p>
 
----
+Este repositorio está basado en mi Trabajo Fin de Grado (TFG) para el Grado en Ingeniería Informática de la Universitat de València y contiene todos mis hallazgos, memoria y código fuente sobre un motor biométrico de reconocimiento de iris, con un enfoque orientado a la identificación masiva (1:N). 
 
 ## Tabla de Contenidos
 1. [Sobre Este Proyecto](#sobre-este-proyecto)
@@ -14,7 +14,6 @@
 4. [Estructura del sistema](#estructura-del-sistema)
 5. [Instalación](#instalación)
 
----
 
 ## Sobre Este Proyecto
 
